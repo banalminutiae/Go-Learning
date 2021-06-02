@@ -1,0 +1,5 @@
+package AVLTree
+
+func insert() {
+    
+}
